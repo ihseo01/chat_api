@@ -13,3 +13,5 @@ spring:
 logging:
   level:
     root: info
+
+# 테스트
